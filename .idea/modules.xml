@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" filepath="$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2codegym.iml" filepath="$PROJECT_DIR$/module2codegym.iml" />
     </modules>
   </component>
