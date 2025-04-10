@@ -70,5 +70,14 @@ public class Fan {
         this.color = color;
     }
 
+    @Override
+    public String toString() {
+        return "Fan{" +
+                "SPEED=" + SPEED +
+                ", status=" + status +
+                ", radius=" + radius +
+                ", color='" + color + '\'' +
+                '}';
+    }
 
 }
