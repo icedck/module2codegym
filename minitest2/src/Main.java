@@ -10,19 +10,23 @@ public class Main {
         };
         System.out.println("Danh sách sản phẩm: ");
         extracted(product);
+
         System.out.println("Tìm kiếm sản phẩm theo tên chính xác: ");
         findName(product, "cake");
+
         System.out.println("Danh sách các sản phẩm có giá > 1000000: ");
         displayProduct(product);
+
         System.out.println("sản phẩm có số lượng tồn kho lớn nhất: ");
         LargestInventory(product);
+
         System.out.println("tổng số sản phẩm: " + countProduct(product) + ", tổng giá trị tồn kho: " +
                 totalInventoryValue(product) + ", giá trung bình: " + Product.getAveragePrice(product));
+
         System.out.println("Thay đổi tên kho: ");
         Product.setStoreName("Kho miền Nam");
         extracted(product);
     }
-
 
     public static void extracted(Product[] product) {
         for (int i = 0; i < product.length; i++) {
@@ -32,26 +36,26 @@ public class Main {
 
     public static String findName(Product arr[], String ProductName){
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i].name.equals(ProductName)) {
+            if (arr[i].getName().equals(ProductName)) {
                 arr[i].display();
             }
         }
-        return "Không tìm thấy";
+        return null;
     }
 
     public static void displayProduct(Product arr[]){
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i].price > 1000000){
+            if (arr[i].getPrice() > 1000000){
                 arr[i].display();
             }
         }
     }
 
     public static void LargestInventory(Product arr[]){
-        int max = arr[0].quantity;
+        int max = arr[0].getQuantity();
         for (int i = 0; i < arr.length; i++) {
-            if (max < arr[i].quantity){
-                max = arr[i].quantity;
+            if (max < arr[i].getQuantity()){
+                max = arr[i].getQuantity();
                 arr[i].display();
             }
         }
