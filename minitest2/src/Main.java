@@ -10,7 +10,7 @@ public class Main {
                 new Product(004, "milk", 6000.0, 50),
                 new Product(005, "water", 8000.0, 20),
         };
-
+        String nameProduct;
         int choice = -1;
         Scanner sc = new Scanner(System.in);
         while (choice != 0) {
@@ -30,8 +30,10 @@ public class Main {
                     extracted(product);
                     break;
                 case 2:
+                    Scanner sc2 = new Scanner(System.in);
                     System.out.println("Tìm kiếm sản phẩm theo tên chính xác: ");
-                    findName(product, "cake");
+                    nameProduct = sc2.nextLine();
+                    findName(product, nameProduct);
                     break;
                 case 3:
                     System.out.println("Danh sách các sản phẩm có giá > 1000000: ");
@@ -52,8 +54,8 @@ public class Main {
                     break;
                 case 0:
                     System.exit(0);
-                 default:
-                     System.out.println("Invalid choice");
+                default:
+                    System.out.println("Invalid choice");
             }
         }
     }

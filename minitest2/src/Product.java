@@ -18,21 +18,21 @@ public class Product {
         System.out.println("ID: " + id + " Name: " + name + " Price: " + price + " Quantity: " + quantity + " Store: " + storeName);
     }
 
-    double getInventoryValue(){
-        return price*quantity;
+    double getInventoryValue() {
+        return price * quantity;
     }
 
-    static double getAveragePrice(Product arr[]){
+    static double getAveragePrice(Product arr[]) {
         int sum = 0;
-        for(int i = 0; i<arr.length; i++){
+        for (int i = 0; i < arr.length; i++) {
             sum += arr[i].price;
         }
-        return sum/arr.length;
+        return sum / arr.length;
     }
 
-    static String getStoreName(Product arr[], String ProductName){
+    static String getStoreName(Product arr[], String productName) {
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i].name.equals(ProductName)) {
+            if (arr[i].name.equals(productName)) {
                 return arr[i].storeName;
             }
         }
