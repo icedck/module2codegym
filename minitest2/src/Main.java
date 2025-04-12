@@ -13,6 +13,7 @@ public class Main {
         String nameProduct;
         int choice = -1;
         Scanner sc = new Scanner(System.in);
+
         while (choice != 0) {
             System.out.println("Menu");
             System.out.println("1. Danh sách sản phẩm");
@@ -27,30 +28,36 @@ public class Main {
             switch (choice) {
                 case 1:
                     System.out.println("Danh sách sản phẩm: ");
-                    extracted(product);
+                    displayAllProducts(product);
+                    System.out.println();
                     break;
                 case 2:
                     Scanner sc2 = new Scanner(System.in);
                     System.out.println("Tìm kiếm sản phẩm theo tên chính xác: ");
                     nameProduct = sc2.nextLine();
                     findName(product, nameProduct);
+                    System.out.println();
                     break;
                 case 3:
                     System.out.println("Danh sách các sản phẩm có giá > 1000000: ");
                     displayProduct(product);
+                    System.out.println();
                     break;
                 case 4:
                     System.out.println("sản phẩm có số lượng tồn kho lớn nhất: ");
                     LargestInventory(product);
+                    System.out.println();
                     break;
                 case 5:
                     System.out.println("tổng số sản phẩm: " + countProduct(product) + ", tổng giá trị tồn kho: " +
                             totalInventoryValue(product) + ", giá trung bình: " + Product.getAveragePrice(product));
+                    System.out.println();
                     break;
                 case 6:
                     System.out.println("Thay đổi tên kho: ");
                     Product.setStoreName("Kho miền Nam");
-                    extracted(product);
+                    displayAllProducts(product);
+                    System.out.println();
                     break;
                 case 0:
                     System.exit(0);
@@ -60,7 +67,7 @@ public class Main {
         }
     }
 
-    public static void extracted(Product[] product) {
+    public static void displayAllProducts(Product[] product) {
         for (int i = 0; i < product.length; i++) {
             product[i].display();
         }

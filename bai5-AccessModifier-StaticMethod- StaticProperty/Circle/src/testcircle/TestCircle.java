@@ -7,6 +7,8 @@ public class TestCircle extends Circle {
 //        Circle c1 = new Circle(2);
 //        System.out.println(c1.getRadius());
 //        System.out.println(c1.getArea());
-        Circle circle = new TestCircle();
+        TestCircle testCircle = new TestCircle();
+        testCircle.setRadius(2.0);
+        System.out.println(testCircle.getArea());
     }
 }
