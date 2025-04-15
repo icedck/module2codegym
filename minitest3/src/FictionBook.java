@@ -20,8 +20,8 @@ public class FictionBook extends Book {
     }
 
     @Override
-    public double getPriceFL() {
-        return getPrice()-(getPrice()*0.07);
+    public double getPrice() {
+        return super.getPrice()*93/100;
     }
 }
 

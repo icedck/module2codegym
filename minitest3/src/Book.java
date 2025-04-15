@@ -47,7 +47,4 @@ public class Book {
         this.author = author;
     }
 
-    public double getPriceFL() {
-        return price;
-    }
 }

@@ -33,8 +33,8 @@ public class ProgrammingBook extends Book{
     }
 
     @Override
-    public double getPriceFL() {
-        return getPrice()-(getPrice()*0.05);
+    public double getPrice() {
+        return super.getPrice()*95/100;
     }
 
 }
