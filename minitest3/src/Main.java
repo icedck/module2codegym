@@ -54,7 +54,7 @@ public class Main {
     public static int totalPrice(Book arr[]) {
         int total = 0;
         for (int i = 0; i < arr.length; i++) {
-            total += arr[i].getPrice();
+            total += arr[i].getPriceFL();
         }
         return total;
     }
@@ -88,7 +88,7 @@ public class Main {
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] instanceof FictionBook) {
-                if (arr[i].getPrice() < 100) {
+                if (arr[i].getPriceFL() < 100) {
                     count++;
                 }
             }
