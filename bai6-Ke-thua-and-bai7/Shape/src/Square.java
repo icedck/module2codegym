@@ -1,4 +1,4 @@
-public class Square extends Rectangle {
+public class Square extends Rectangle implements Colorable {
     Square(){
 
     }
@@ -27,6 +27,11 @@ public class Square extends Rectangle {
     @Override
     public void setHeight(double height) {
         super.setHeight(height);
+    }
+
+    @Override
+    public void howToColor() {
+        System.out.println("Color all four sides");
     }
 
     @Override

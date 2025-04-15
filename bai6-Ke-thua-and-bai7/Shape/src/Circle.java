@@ -1,4 +1,4 @@
-public class Circle extends Shape {
+public class Circle extends Shape implements Resizeable{
     private double radius;
 
     public Circle(){
@@ -28,10 +28,12 @@ public class Circle extends Shape {
     }
 
     @Override
+    public void resize() {
+        this.radius += this.radius * (Math.random() * (double)100.0F + (double)1.0F) / (double)100.0F;
+    }
+
+    @Override
     public String toString() {
-        return "A Circle with radius="
-                + getRadius()
-                + ", which is a subclass of "
-                + super.toString();
+        return "A Circle with radius=" + getRadius() + " and Area=" + this.getArea() + ", which is a subclass of " + super.toString();
     }
 }

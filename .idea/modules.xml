@@ -5,30 +5,29 @@
       <module fileurl="file://$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/AnimalAndInterfaceEdible/AnimalAndInterfaceEdible.iml" filepath="$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/AnimalAndInterfaceEdible/AnimalAndInterfaceEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Car/Car.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Car/Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/CircleAndCylinder/CircleAndCylinder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/ComparatorForShape/ComparatorForShape.iml" filepath="$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/ComparatorForShape/ComparatorForShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/Shape/Shape.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/StaticMethod/StaticMethod.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/StaticMethod/StaticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" filepath="$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/bai6-Ke-thua.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/bai6-Ke-thua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/bai6-Ke-thua-and-bai7.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/bai6-Ke-thua-and-bai7.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/bai7-Abstract-Class-And-Interface.iml" filepath="$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/bai7-Abstract-Class-And-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/minitest/minitest.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/minitest/minitest.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitest2/minitest2.iml" filepath="$PROJECT_DIR$/minitest2/minitest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitest3/minitest3.iml" filepath="$PROJECT_DIR$/minitest3/minitest3.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitest4/minitest4.iml" filepath="$PROJECT_DIR$/minitest4/minitest4.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2codegym.iml" filepath="$PROJECT_DIR$/module2codegym.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua/point2Dand3D/point2Dand3D.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua/point2Dand3D/point2Dand3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/point2Dand3D/point2Dand3D.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/point2Dand3D/point2Dand3D.iml" />
     </modules>
   </component>
 </project>
