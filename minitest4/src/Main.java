@@ -4,11 +4,11 @@ import java.util.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        NhanVien v[] = new NhanVien[4];
-        v[0] = new NhanVienFullTime(101, "Unknown1", 27, "0111111111", "a@gmail.com", 200000, 50000, 5000000);
-        v[1] = new NhanVienFullTime(102, "Unknown2", 24, "0111112222", "b@gmail.com", 170000, 0, 1000000);
-        v[2] = new NhanVienPartTime(103, "Unknown3", 25, "0333333333", "c@gmail.com", 4);
-        v[3] = new NhanVienPartTime(104, "Unknown4", 21, "0333344444", "d@gmail.com", 6);
+        Employee v[] = new Employee[4];
+        v[0] = new EmployeeFullTime(101, "Unknown1", 27, "0111111111", "a@gmail.com", 200000, 50000, 5000000);
+        v[1] = new EmployeeFullTime(102, "Unknown2", 24, "0111112222", "b@gmail.com", 170000, 0, 1000000);
+        v[2] = new EmployeePartTime(103, "Unknown3", 25, "0333333333", "c@gmail.com", 4);
+        v[3] = new EmployeePartTime(104, "Unknown4", 21, "0333344444", "d@gmail.com", 6);
 
         System.out.println("Luong trung binh: " + Average(v));
 
@@ -17,35 +17,34 @@ public class Main {
 
         System.out.println("số lương phải trả cho tất cả các nhân viên bán thời gian: " + sumPartTime(v));
 
-        List<NhanVienFullTime> nvft = getFullTimeList(v);
-        System.out.println("Nhan vien FullTime sap xep theo luong: " + nvft);
+        List<EmployeeFullTime> arrEmployeeFullTime = getFullTimeList(v);
+        System.out.println("Nhan vien FullTime sap xep theo luong: " + arrEmployeeFullTime);
     }
 
-    public static List<NhanVienFullTime> getFullTimeList(NhanVien[] v) {
-        List<NhanVienFullTime> nvft = new ArrayList<>();
-        for (NhanVien vi : v){
-            if(vi instanceof NhanVienFullTime){
-                nvft.add((NhanVienFullTime)vi);
+    public static List<EmployeeFullTime> getFullTimeList(Employee[] v) {
+        List<EmployeeFullTime> arrEmployeeFullTime = new ArrayList<>();
+        for (Employee vi : v){
+            if(vi instanceof EmployeeFullTime){
+                arrEmployeeFullTime.add((EmployeeFullTime)vi);
             }
         }
-
-        nvft.sort(Comparator.comparingDouble(NhanVienFullTime::salary));
-        return nvft;
+        arrEmployeeFullTime.sort(Comparator.comparingDouble(EmployeeFullTime::salary));
+        return arrEmployeeFullTime;
     }
 
-    public static int sumPartTime(NhanVien[] v) {
+    public static int sumPartTime(Employee[] v) {
         int sum = 0;
         for (int i = 0; i < v.length; i++) {
-            if (v[i] instanceof NhanVienPartTime) {
-                sum += ((NhanVienPartTime) v[i]).salary();
+            if (v[i] instanceof EmployeePartTime) {
+                sum += ((EmployeePartTime) v[i]).salary();
             }
         }
         return sum;
     }
 
-    public static void salaryLessThanAverageSalary(NhanVien[] v) {
-        for (NhanVien nv : v) {
-            if (nv instanceof NhanVienFullTime) {
+    public static void salaryLessThanAverageSalary(Employee[] v) {
+        for (Employee nv : v) {
+            if (nv instanceof EmployeeFullTime) {
                 if (nv.salary()<Average(v)) {
                     System.out.println(nv);
                 }
@@ -53,7 +52,7 @@ public class Main {
         }
     }
 
-    public static int Average(NhanVien[] v) {
+    public static int Average(Employee[] v) {
         int sum = 0;
         for (int i = 0; i < v.length; i++) {
             sum += v[i].salary();

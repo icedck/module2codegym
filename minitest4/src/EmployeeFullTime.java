@@ -1,19 +1,19 @@
-public class NhanVienFullTime extends NhanVien {
+public class EmployeeFullTime extends Employee {
     private int prizeAmount;
     private int fineAmount;
     private int fixedSalary;
 
-    public NhanVienFullTime() {
+    public EmployeeFullTime() {
 
     }
 
-    public NhanVienFullTime(int prizeAmount, int fineAmount, int fixedSalary) {
+    public EmployeeFullTime(int prizeAmount, int fineAmount, int fixedSalary) {
         this.prizeAmount = prizeAmount;
         this.fineAmount = fineAmount;
         this.fixedSalary = fixedSalary;
     }
 
-    public NhanVienFullTime(int ID, String name, int age, String SDT, String email, int prizeAmount, int fineAmount, int fixedSalary) {
+    public EmployeeFullTime(int ID, String name, int age, String SDT, String email, int prizeAmount, int fineAmount, int fixedSalary) {
         super(ID, name, age, SDT, email);
         this.prizeAmount = prizeAmount;
         this.fineAmount = fineAmount;

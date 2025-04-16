@@ -1,15 +1,15 @@
-public abstract class NhanVien {
+public abstract class Employee {
     private int ID;
     private String Name;
     private int Age;
     private String SDT;
     private String Email;
 
-    public NhanVien(){
+    public Employee(){
 
     }
 
-    public NhanVien(int ID, String name, int age, String SDT, String email) {
+    public Employee(int ID, String name, int age, String SDT, String email) {
         this.ID = ID;
         this.Name = name;
         this.Age = age;
