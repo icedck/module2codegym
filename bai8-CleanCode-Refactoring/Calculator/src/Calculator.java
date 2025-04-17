@@ -20,4 +20,5 @@ public class Calculator {
                 throw new RuntimeException("Unsupported operation");
         }
     }
+
 }
