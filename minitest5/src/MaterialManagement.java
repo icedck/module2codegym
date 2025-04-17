@@ -29,6 +29,7 @@ public class MaterialManagement {
             }
             return;
         }
+        System.out.println("Không tìm thấy vật liệu có ID: " + id);
     }
 
     public void deleteMaterial(String id) {
@@ -42,6 +43,7 @@ public class MaterialManagement {
             count--;
             return;
         }
+        System.out.println("Không tìm thấy vật liệu có ID: " + id);
     }
 
     public double getDiscountDifference() {
@@ -71,6 +73,7 @@ public class MaterialManagement {
                 CrispyFlour flour = (CrispyFlour) material;
                 System.out.print(" | Quantity: " + flour.getQuantity());
             }
+            System.out.print(" | Giá sau giảm: " + ((Discount) materials[i]).getRealMoney());
             System.out.println();
         }
     }
