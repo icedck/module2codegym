@@ -22,14 +22,22 @@ public class MaterialManagement {
         materials[count++] = material;
     }
 
+    public boolean checkIDMaterial(String ID) {
+        for (int i = 0; i < count; i++) {
+            if (materials[i].getId().equals(ID)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public void updateMaterial(String id, Material material) {
         for (int i = 0; i < count; i++) {
             if (materials[i].getId().equals(id)) {
                 materials[i] = material;
+                return;
             }
-            return;
         }
-        System.out.println("Không tìm thấy vật liệu có ID: " + id);
     }
 
     public void deleteMaterial(String id) {
@@ -38,15 +46,15 @@ public class MaterialManagement {
                 for (int j = i; j < count-1; j++) {
                     materials[j] = materials[j+1];
                 }
+                materials[count-1] = null;
+                count--;
+                return;
             }
-            materials[count-1] = null;
-            count--;
-            return;
         }
         System.out.println("Không tìm thấy vật liệu có ID: " + id);
     }
 
-    public double getDiscountDifference() {
+    public void getDiscountDifference() {
         double totalAmount = 0;
         double totalDiscount = 0;
         for (int i = 0; i < materials.length; i++) {
@@ -55,7 +63,9 @@ public class MaterialManagement {
                 totalDiscount += ((Discount)materials[i]).getRealMoney();
             }
         }
-        return totalAmount - totalDiscount;
+        System.out.println("\nTổng giá gốc: " + totalAmount);
+        System.out.println("Tổng giá sau giảm: " + totalDiscount);
+        System.out.println("Chênh lệch: " + (totalAmount - totalDiscount));
     }
 
     public void displayMaterials() {
