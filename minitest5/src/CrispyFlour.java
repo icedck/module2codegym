@@ -26,7 +26,7 @@ public class CrispyFlour extends Material implements Discount {
 
     @Override
     public double getRealMoney() {
-        LocalDate expiry = getManufacturingDate();
+        LocalDate expiry = getExpiryDate();
         LocalDate now = LocalDate.now();
         int remainingDays = expiry.getMonthValue() - now.getMonthValue();
         if (remainingDays <= 2) {

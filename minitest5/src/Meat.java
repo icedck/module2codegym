@@ -25,7 +25,7 @@ public class Meat extends Material implements Discount{
 
     @Override
     public double getRealMoney() {
-        LocalDate expiry = getManufacturingDate();
+        LocalDate expiry = getExpiryDate();
         LocalDate now = LocalDate.now();
         int remainingDays = expiry.getDayOfYear() - now.getDayOfYear();
         if (remainingDays <= 5) {
