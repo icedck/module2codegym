@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.LinkedList;
 
 public class VehicleManager {
@@ -8,6 +7,12 @@ public class VehicleManager {
     LinkedList<String> history = new LinkedList<>();
 
     public void addVehicle(Vehicle v) {
+        for (Vehicle vehicle : vehicles) {
+            if (vehicle.getId().equals(v.getId())) {
+                System.out.println("Vehicle already exists");
+                return;
+            }
+        }
         vehicles.add(v);
         history.add("Da them xe co ID: " + v.getId());
     }

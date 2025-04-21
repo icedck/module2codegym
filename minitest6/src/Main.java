@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        VehicleManager vm = new VehicleManager();
-        vm.addVehicle(new Car("C01", "bmw", 2019, 4));
-        vm.addVehicle(new Car("C02", "audi", 2020, 4));
-        vm.addVehicle(new Car("C03", "toyota", 2018, 7));
-        vm.addVehicle(new Motorbike("M01", "wave", 2021, 70));
-        vm.addVehicle(new Motorbike("M02", "AB", 2016, 180));
-        vm.addVehicle(new Motorbike("M03", "SH", 2022, 190));
+        VehicleManager vehicleManager = new VehicleManager();
+        vehicleManager.addVehicle(new Car("C01", "bmw", 2019, 4));
+        vehicleManager.addVehicle(new Car("C02", "audi", 2020, 4));
+        vehicleManager.addVehicle(new Car("C03", "toyota", 2018, 7));
+        vehicleManager.addVehicle(new Motorbike("M01", "wave", 2021, 70));
+        vehicleManager.addVehicle(new Motorbike("M02", "AB", 2016, 180));
+        vehicleManager.addVehicle(new Motorbike("M03", "SH", 2022, 190));
 
         Scanner sc = new Scanner(System.in);
         int choice = -1;
@@ -41,36 +41,36 @@ public class Main {
                     if (type.equalsIgnoreCase("car")){
                         System.out.println("Nhap so luong cho ngoi: ");
                         int seat = sc.nextInt();
-                        vm.addVehicle(new Car(id, brand, year, seat));
+                        vehicleManager.addVehicle(new Car(id, brand, year, seat));
                     }
                     if (type.equalsIgnoreCase("motorbike")){
                         System.out.println("Nhap cong suat dong co: ");
                         int power = sc.nextInt();
-                        vm.addVehicle(new Motorbike(id, brand, year, power));
+                        vehicleManager.addVehicle(new Motorbike(id, brand, year, power));
                     }
                     break;
                 case 2:
                     System.out.println("Nhap xe can xoa theo ID: ");
                     String idRemove = sc.nextLine();
-                    vm.removeVehicle(idRemove);
+                    vehicleManager.removeVehicle(idRemove);
                     break;
                 case 3:
-                    vm.displayVehicles();
+                    vehicleManager.displayVehicles();
                     break;
                 case 4:
-                    vm.displayTax();
+                    vehicleManager.displayTax();
                     break;
                 case 5:
-                    vm.sortByYear();
+                    vehicleManager.sortByYear();
                     break;
                 case 6:
-                    vm.sortByBrand();
+                    vehicleManager.sortByBrand();
                     break;
                 case 7:
-                    vm.sortByTax();
+                    vehicleManager.sortByTax();
                     break;
                 case 8:
-                    vm.printHistory();
+                    vehicleManager.printHistory();
                     break;
                 case 0:
                     System.exit(0);
