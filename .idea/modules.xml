@@ -14,11 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyLinkedListQueue/MyLinkedListQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyLinkedListQueue/MyLinkedListQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/SimpleCalculator/SimpleCalculator.iml" />
@@ -29,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" filepath="$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" />

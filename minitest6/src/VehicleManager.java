@@ -1,10 +1,12 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.LinkedList;
+import java.util.*;
 
 public class VehicleManager {
     ArrayList<Vehicle> vehicles = new ArrayList<>();
     LinkedList<String> history = new LinkedList<>();
+
+    private void logHistory(String message) {
+        this.history.add(String.format("[%tT] %s", new Date(), message));
+    }
 
     public void addVehicle(Vehicle v) {
         for (Vehicle vehicle : vehicles) {
@@ -14,15 +16,17 @@ public class VehicleManager {
             }
         }
         vehicles.add(v);
-        history.add("Da them xe co ID: " + v.getId());
+        logHistory("Da them xe co ID: " + v.getId());
     }
 
     public void removeVehicle(String id) {
         for (int i = 0; i < vehicles.size(); i++) {
             if (vehicles.get(i).getId().equals(id)) {
                 vehicles.remove(i);
-                history.add("Da xoa xe co ID: " + id);
+                logHistory("Da xoa xe co ID: " + id);
                 return;
+            }else {
+                System.out.println("Khong tim thay ID xe: " + id);
             }
         }
     }
@@ -41,17 +45,17 @@ public class VehicleManager {
 
     public void sortByYear(){
         Collections.sort(vehicles);
-        history.add("Da sap xep xe theo nam");
+        logHistory("Da sap xep xe theo nam");
     }
 
     public void sortByBrand(){
         vehicles.sort(new CompareBrands());
-        history.add("Da sap xep xe theo brand");
+        logHistory("Da sap xep xe theo brand");
     }
 
     public void sortByTax(){
         vehicles.sort(new CompareCalculateTax());
-        history.add("Da sap xep xe theo thue");
+        logHistory("Da sap xep xe theo thue");
     }
 
     public void printHistory(){
