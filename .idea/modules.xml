@@ -9,10 +9,13 @@
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Car/Car.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Car/Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapHashSet/HashMapHashSet.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapHashSet/HashMapHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapLinkedHashMapTreeMap/HashMapLinkedHashMapTreeMap.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapLinkedHashMapTreeMap/HashMapLinkedHashMapTreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" />
@@ -20,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" />
@@ -30,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/TennisGame/TennisGame.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/TennisGame/TennisGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/TreeMap/TreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" />
@@ -37,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/bai11-DSA-Stack-Queue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/bai11-DSA-Stack-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/bai12-Java-Collection-Framework.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/bai12-Java-Collection-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />
