@@ -11,7 +11,6 @@ public class UseStackString {
 
         System.out.println(wStack.toString());
 
-        String reversedWord = new String();
         String i = "";
         while (!wStack.isEmpty()) {
             i += wStack.pop();

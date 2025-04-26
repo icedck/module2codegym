@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/AbsoluteNumberCalculator/AbsoluteNumberCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/AbsoluteNumberCalculator/AbsoluteNumberCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/AlgorithmComplexityTest/AlgorithmComplexityTest.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/AlgorithmComplexityTest/AlgorithmComplexityTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/AnimalAndInterfaceEdible/AnimalAndInterfaceEdible.iml" filepath="$PROJECT_DIR$/bai7-Abstract-Class-And-Interface/AnimalAndInterfaceEdible/AnimalAndInterfaceEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai15-Debug/ArrayExample/ArrayExample.iml" filepath="$PROJECT_DIR$/bai15-Debug/ArrayExample/ArrayExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/ArrayListTest/ArrayListTest.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/ArrayListTest/ArrayListTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearchRecursive/BinarySearchRecursive.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearchRecursive/BinarySearchRecursive.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/Find-the-longest-ascending-sequence/Find-the-longest-ascending-sequence.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/Find-the-longest-ascending-sequence/Find-the-longest-ascending-sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/FindLongestString/FindLongestString.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/FindLongestString/FindLongestString.iml" />
@@ -23,14 +25,19 @@
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/FizzBuzzTranslate/FizzBuzzTranslate.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapHashSet/HashMapHashSet.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapHashSet/HashMapHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapLinkedHashMapTreeMap/HashMapLinkedHashMapTreeMap.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/HashMapLinkedHashMapTreeMap/HashMapLinkedHashMapTreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai15-Debug/IllegalTriangleException/IllegalTriangleException.iml" filepath="$PROJECT_DIR$/bai15-Debug/IllegalTriangleException/IllegalTriangleException.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/InsertionSortByStep/InsertionSortByStep.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/InsertionSortByStep/InsertionSortByStep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai15-Debug/LinearEquationResolver/LinearEquationResolver.iml" filepath="$PROJECT_DIR$/bai15-Debug/LinearEquationResolver/LinearEquationResolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/LinkedListTest/LinkedListTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyGenericStack/MyGenericStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyLinkedList/MyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyLinkedListQueue/MyLinkedListQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyLinkedListQueue/MyLinkedListQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/MyList/MyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyQueue/MyQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyQueue/MyQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyStack/MyStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" filepath="$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
@@ -55,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/bai12-Java-Collection-Framework.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/bai12-Java-Collection-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" filepath="$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />
