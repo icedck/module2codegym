@@ -20,14 +20,17 @@ public class VehicleManager {
     }
 
     public void removeVehicle(String id) {
+        boolean found = false;
         for (int i = 0; i < vehicles.size(); i++) {
             if (vehicles.get(i).getId().equals(id)) {
                 vehicles.remove(i);
                 logHistory("Da xoa xe co ID: " + id);
-                return;
-            }else {
-                System.out.println("Khong tim thay ID xe: " + id);
+                found = true;
+                break;
             }
+        }
+        if (!found) {
+            System.out.println("khong tim thay ID xe: " + id);
         }
     }
 

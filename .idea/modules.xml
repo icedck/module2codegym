@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" filepath="$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" />
@@ -55,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/apj-read-write-student-list-to-binary-file/apj-read-write-student-list-to-binary-file.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/apj-read-write-student-list-to-binary-file/apj-read-write-student-list-to-binary-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" filepath="$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/bai10-DSA-DanhSach.iml" />
@@ -63,6 +66,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" filepath="$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />
@@ -76,6 +80,7 @@
       <module fileurl="file://$PROJECT_DIR$/minitest4/minitest4.iml" filepath="$PROJECT_DIR$/minitest4/minitest4.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitest5/minitest5.iml" filepath="$PROJECT_DIR$/minitest5/minitest5.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitest6/minitest6.iml" filepath="$PROJECT_DIR$/minitest6/minitest6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minitest7/minitest7.iml" filepath="$PROJECT_DIR$/minitest7/minitest7.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2codegym.iml" filepath="$PROJECT_DIR$/module2codegym.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/point2Dand3D/point2Dand3D.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/point2Dand3D/point2Dand3D.iml" />
     </modules>
