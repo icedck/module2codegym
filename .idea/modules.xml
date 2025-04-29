@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Circle/Circle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/CircleAndCylinder/CircleAndCylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/ComparableComparator/ComparableComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/CopyFileText/CopyFileText.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/CopyFileText/CopyFileText.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" />
@@ -44,13 +45,18 @@
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/QuadraticEquation/QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/QueueLinkedList/QueueLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai18-Threading/RacingCars/RacingCars.iml" filepath="$PROJECT_DIR$/bai18-Threading/RacingCars/RacingCars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/ReadAndWriteFile/ReadAndWriteFile.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/ReadAndWriteFile/ReadAndWriteFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/ReadFilecsv/ReadFilecsv.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/ReadFilecsv/ReadFilecsv.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai18-Threading/RunnableDemo/RunnableDemo.iml" filepath="$PROJECT_DIR$/bai18-Threading/RunnableDemo/RunnableDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/SimpleCalculator/SimpleCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/StaticMethod/StaticMethod.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/StaticMethod/StaticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/SumFileText/SumFileText.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/SumFileText/SumFileText.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/TennisGame/TennisGame.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/TennisGame/TennisGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/TestQueue/TestQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/TreeMap/TreeMap.iml" />
@@ -66,7 +72,9 @@
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/bai13-Thuat-toan-tim-kiem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/bai14-Thuat-toan-sap-xep.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" filepath="$PROJECT_DIR$/bai15-Debug/bai15-Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/bai16-IO-TextFile.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/bai16-IO-TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai18-Threading/bai18-Threading.iml" filepath="$PROJECT_DIR$/bai18-Threading/bai18-Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />

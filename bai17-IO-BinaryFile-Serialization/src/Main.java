@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -26,5 +27,11 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        File file = new File("C:\\book");
+        File file2 = new File("C:\\book\\test.dat");
+
+        file.isDirectory(); // true nếu là thư mục
+        file.isFile();      // true nếu là file
     }
 }

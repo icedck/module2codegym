@@ -22,19 +22,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int choice = -1;
         while(choice != 0) {
-            System.out.println("================================");
-            System.out.println("Menu");
-            System.out.println("1. Thêm đơn hàng mới (Điện tử / Quần áo)");
-            System.out.println("2. Xoá đơn hàng theo mã");
-            System.out.println("3. Hiển thị tất cả đơn hàng");
-            System.out.println("4. Hiển thị báo cáo doanh thu");
-            System.out.println("5. Sắp xếp theo ngày đặt hàng");
-            System.out.println("6. Sắp xếp theo tên khách hàng");
-            System.out.println("7. Sắp xếp theo tổng tiền đơn hàng");
-            System.out.println("8. Xem lịch sử thao tác");
-            System.out.println("0. Exit");
-            System.out.println("================================");
-            System.out.print("Enter your choice: ");
+            menuOrder();
             choice = sc.nextInt();
             sc.nextLine();
 
@@ -88,6 +76,22 @@ public class Main {
                     System.out.println("Invalid choice");
             }
         }
+    }
+
+    private static void menuOrder() {
+        System.out.println("================================");
+        System.out.println("Menu");
+        System.out.println("1. Thêm đơn hàng mới (Điện tử / Quần áo)");
+        System.out.println("2. Xoá đơn hàng theo mã");
+        System.out.println("3. Hiển thị tất cả đơn hàng");
+        System.out.println("4. Hiển thị báo cáo doanh thu");
+        System.out.println("5. Sắp xếp theo ngày đặt hàng");
+        System.out.println("6. Sắp xếp theo tên khách hàng");
+        System.out.println("7. Sắp xếp theo tổng tiền đơn hàng");
+        System.out.println("8. Xem lịch sử thao tác");
+        System.out.println("0. Exit");
+        System.out.println("================================");
+        System.out.print("Enter your choice: ");
     }
 
     public static ClothingOrder addClothingOrder(Scanner sc) {
