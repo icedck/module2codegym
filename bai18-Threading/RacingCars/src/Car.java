@@ -9,6 +9,7 @@ public class Car implements Runnable {
     public void run() {
         int runDistance = 0;
         long startTime = System.currentTimeMillis();
-        while (runDistance < DISTANCE) {}
+        while (runDistance < DISTANCE) {
+        }
     }
 }
