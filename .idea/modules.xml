@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai10-DSA-DanhSach/ArrayListTest/ArrayListTest.iml" filepath="$PROJECT_DIR$/bai10-DSA-DanhSach/ArrayListTest/ArrayListTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearchRecursive/BinarySearchRecursive.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/BinarySearchRecursive/BinarySearchRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/BracketChecker/BracketChecker.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/BracketChecker/BracketChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/BubbleSortByStep/BubbleSortByStep.iml" filepath="$PROJECT_DIR$/bai14-Thuat-toan-sap-xep/BubbleSortByStep/BubbleSortByStep.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Calculator/Calculator.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DemergingByQueue/DemergingByQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DemergingByQueue/DemergingByQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/Fan/Fan.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/Find-the-longest-ascending-sequence/Find-the-longest-ascending-sequence.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/Find-the-longest-ascending-sequence/Find-the-longest-ascending-sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/FindLongestString/FindLongestString.iml" filepath="$PROJECT_DIR$/bai13-Thuat-toan-tim-kiem/FindLongestString/FindLongestString.iml" />
@@ -41,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/MyStack/MyStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/NextDayCalculator/NextDayCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" filepath="$PROJECT_DIR$/bai15-Debug/NumberFormatException/NumberFormatException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/PalindromeChecker/PalindromeChecker.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/PalindromeChecker/PalindromeChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/PointAndMoveablePoint/PointAndMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" filepath="$PROJECT_DIR$/bai12-Java-Collection-Framework/Product/Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/ProductManager/ProductManager.iml" />

@@ -18,7 +18,6 @@ public class CopyFileBinary {
             e.printStackTrace();
         }
 
-
     }
 
     public static void copyFileBinary(File sourceFile, File targetFile) throws IOException {
