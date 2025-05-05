@@ -1,16 +1,15 @@
-package storage;
+package storage.order;
 
-import model.ClothingOrder;
-import model.ElectronicsOrder;
 import model.Order;
+import storage.ReadWriteFile;
 
 import java.io.*;
 import java.util.ArrayList;
 
-public class OrderStorage {
+public class OrderStorage implements ReadWriteFile<Order> {
     private static ArrayList<Order> orders = new ArrayList<Order>();
 
-    public static ArrayList<Order> getOrders() {
+    public ArrayList<Order> getOrders() {
         File file = new File("orders.txt");
         try {
             FileInputStream fis = new FileInputStream(file);
@@ -27,7 +26,7 @@ public class OrderStorage {
         return orders;
     }
 
-    public static void setOrders(ArrayList<Order> orders) {
+    public void setOrders(ArrayList<Order> orders) {
         OrderStorage.orders = orders;
         File file = new File("orders.txt");
         try {

@@ -3,13 +3,14 @@ package controller;
 import model.CustomerNameComparator;
 import model.Order;
 import model.TotalPriceComparator;
-import storage.OrderStorage;
+import storage.ReadWriteFile;
+import storage.order.OrderStorage;
 
-import java.io.*;
 import java.util.*;
 
 public class OrderManager {
-    static ArrayList<Order> orders = OrderStorage.getOrders();
+    static ReadWriteFile readWriteFile = new OrderStorage();
+    static ArrayList<Order> orders = readWriteFile.getOrders();
     static LinkedList<String> history = new LinkedList<>();
 
     public void addOrder(Order o) {
@@ -21,7 +22,7 @@ public class OrderManager {
         }
         orders.add(o);
         history.add("Da them " + o.getOrderId());
-        OrderStorage.setOrders(orders);
+        readWriteFile.setOrders(orders);
     }
 
     public void removeOrder(String orderId) {
@@ -31,7 +32,7 @@ public class OrderManager {
                 orders.remove(i);
                 history.add("Da xoa " + orderId);
                 System.out.println("Xoa thanh cong order: " + orderId);
-                OrderStorage.setOrders(orders);
+                readWriteFile.setOrders(orders);
                 return;
             }
         }
@@ -53,19 +54,19 @@ public class OrderManager {
     public void sortByOrderDate() {
         Collections.sort(orders);
         history.add("da sap xep theo ngay");
-        OrderStorage.setOrders(orders);
+        readWriteFile.setOrders(orders);
     }
 
     public void sortByCustomerName() {
         orders.sort(new CustomerNameComparator());
         history.add("da sap xep theo ten");
-        OrderStorage.setOrders(orders);
+        readWriteFile.setOrders(orders);
     }
 
     public void sortByTotalPrice() {
         orders.sort(new TotalPriceComparator());
         history.add("da sap xep theo tong tien");
-        OrderStorage.setOrders(orders);
+        readWriteFile.setOrders(orders);
     }
 
     public void printHistory() {

@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/CopyFileText/CopyFileText.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/CopyFileText/CopyFileText.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/CopyFileUsingStream/CopyFileUsingStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai18-Threading/Count/Count.iml" filepath="$PROJECT_DIR$/bai18-Threading/Count/Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/CrawlNewspaper/CrawlNewspaper.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/CrawlNewspaper/CrawlNewspaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/CrawlSongExample/CrawlSongExample.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/CrawlSongExample/CrawlSongExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/bai8-CleanCode-Refactoring/Cylinder/Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DecimalToBinary/DecimalToBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/DemergingByQueue/DemergingByQueue.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/DemergingByQueue/DemergingByQueue.iml" />
@@ -73,6 +75,10 @@
       <module fileurl="file://$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/bai6-Ke-thua-and-bai7/Triangle/Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" filepath="$PROJECT_DIR$/bai9-AutomatedTesting-TDD/TriangleClassifier/TriangleClassifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" filepath="$PROJECT_DIR$/bai11-DSA-Stack-Queue/UseStack/UseStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/ValidateAccount/ValidateAccount.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/ValidateAccount/ValidateAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/ValidateClass/ValidateClass.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/ValidateClass/ValidateClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/ValidateEmail/ValidateEmail.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/ValidateEmail/ValidateEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/ValidatePhone/ValidatePhone.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/ValidatePhone/ValidatePhone.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/apj-read-write-student-list-to-binary-file/apj-read-write-student-list-to-binary-file.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/apj-read-write-student-list-to-binary-file/apj-read-write-student-list-to-binary-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" filepath="$PROJECT_DIR$/bai-2-loop-in-java/bai-2-loop-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" filepath="$PROJECT_DIR$/bai1-Introduction-to-java/bai1-Introduction-to-java.iml" />
@@ -85,6 +91,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai16-IO-TextFile/bai16-IO-TextFile.iml" filepath="$PROJECT_DIR$/bai16-IO-TextFile/bai16-IO-TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" filepath="$PROJECT_DIR$/bai17-IO-BinaryFile-Serialization/bai17-IO-BinaryFile-Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai18-Threading/bai18-Threading.iml" filepath="$PROJECT_DIR$/bai18-Threading/bai18-Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai19-String-Regex/bai19-String-Regex.iml" filepath="$PROJECT_DIR$/bai19-String-Regex/bai19-String-Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" filepath="$PROJECT_DIR$/bai3-array-and-method-in-java/bai3-array-and-method-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" filepath="$PROJECT_DIR$/bai4-Class-and-Obj-in-Java/bai4-Class-and-Obj-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" filepath="$PROJECT_DIR$/bai5-AccessModifier-StaticMethod- StaticProperty/bai5-AccessModifier-StaticMethod- StaticProperty.iml" />
