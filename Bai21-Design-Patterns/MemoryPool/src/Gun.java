@@ -16,7 +16,7 @@ public class Gun {
                 pp.move();
                 System.out.print("-" + pp.getPosition());
                 if (pp.getPosition()==10) {
-                    Pool.freeItems(pp);
+                    Pool.freeItem(pp);
                     pList.remove(pp);
                 }
             }
