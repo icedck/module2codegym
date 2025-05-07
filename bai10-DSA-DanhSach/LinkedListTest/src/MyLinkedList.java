@@ -162,4 +162,9 @@ public class MyLinkedList<E> {
         head = null;
         numNodes = 0;
     }
+
+    public void print() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'print'");
+    }
 }

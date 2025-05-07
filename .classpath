@@ -90,5 +90,6 @@
 	<classpathentry kind="src" path="minitest6/src"/>
 	<classpathentry kind="src" path="minitest7/src"/>
 	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="src" path="bai19-String-Regex/CrawlSongExample/src"/>
 	<classpathentry kind="output" path="out/production/AbsoluteNumberCalculator"/>
 </classpath>
